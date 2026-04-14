@@ -57,7 +57,7 @@ Projects built to demonstrate real skills — each one deployable with a single 
 - 🧱 Deepening **Java + Spring Boot** — JPA, Spring Security, TDD with Mockito
 - 🤖 Studying **AI/ML architecture** — from ML fundamentals to agent-based systems
 - 🏭 Consulting on **industrial data migration** — ETL pipelines for the water treatment sector
-- 📝 Documenting everything on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 📝 Documenting everything on [LinkedIn](https://www.linkedin.com/in/lionel-alan-choque/)
 
 ---
 
@@ -72,7 +72,7 @@ Projects built to demonstrate real skills — each one deployable with a single 
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-alan-choque/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lionelchoque@gmail.com)
 
 > *"I care about the why behind every technical decision — not just making things work, but understanding why they work that way."*
