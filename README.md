@@ -42,7 +42,7 @@ Projects built to demonstrate real skills — each one deployable with a single 
 
 | # | Project | What it demonstrates | Stack | Status |
 |---|---------|---------------------|-------|--------|
-| 01 | [Java Core Playground](https://github.com/lionelchoque/java-core-playground) | OOP, Streams, Lambdas, Collections, JUnit 5 | Java 17, Maven | 🔨 Building |
+| 01 | [Java Core Playground](https://github.com/LionelChoque/JavaCore) | OOP, Streams, Lambdas, Collections, JUnit 5 | Java 17, Maven | ✅ Finished |
 | 02 | [Persistence Evolution](https://github.com/lionelchoque/java-persistence-journey) | JDBC → JPA → Hibernate — understanding the *why* behind ORMs | Java, JPA, Hibernate, PostgreSQL | 🔨 Building |
 | 03 | [Data Integration Service](https://github.com/lionelchoque/data-integration-service) | Spring Boot · multiple datasources · external API consumption | Spring Boot, WebClient, PostgreSQL, MySQL | ⏳ Planned |
 | 04 | [Fullstack — Spring + React](https://github.com/lionelchoque/fullstack-spring-react) | REST API + SPA + Nginx reverse proxy, fully dockerized | Spring Boot, React, Docker Compose | ⏳ Planned |
